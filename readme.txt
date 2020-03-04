@@ -1,3 +1,4 @@
+
 git is a  distributed version control system.
 git is a free software under the GPL on issue -101.
 git has a mutable index called stage.
@@ -7,5 +8,7 @@ I love cat
 creating a new branch is quick and simple.
 add merge
 add test for push to github
+add something for stash
+add something on github
 
 
