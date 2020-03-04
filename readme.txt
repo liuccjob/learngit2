@@ -4,6 +4,6 @@ git has a mutable index called stage.
 git tracks changes of files.
 this version is to the github.
 I love cat
-creating a new branch is quick.
+creating a new branch is quick and simple.
 
 
