@@ -6,5 +6,6 @@ this version is to the github.
 I love cat
 creating a new branch is quick and simple.
 add merge
+add test for push to github
 
 
